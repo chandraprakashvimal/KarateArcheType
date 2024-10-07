@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Caleb Harmeston",
+    "isManager": true
+  },
+  {
+    "id": null,
+    "name": "Birgitta Ekless",
+    "isManager": true
+  }
+]
